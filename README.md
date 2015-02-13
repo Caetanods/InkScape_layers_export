@@ -3,4 +3,5 @@ This is a short bash script to use InkScape to create powerpoint-like presentati
 That is it! You have a pdf presentation to enjoy!
 
 Usage example:
+
 $./Inkscape_to_pdf.sh my_presentation.svg my_final_presentation.pdf
